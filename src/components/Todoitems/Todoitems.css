@@ -1,0 +1,21 @@
+td{
+    padding: 30px;
+    border:solid rgb(40, 120, 240);
+    width :30%;
+    margin: auto;
+}
+tr{border: solid #5b8b7b;}
+table{
+    border: solid #5b8b7b;
+    align-self:center;
+    margin:auto;
+    
+}
+.first{
+    background-color: rgb(40, 120, 240);
+    color: white;
+}
+p{
+    text-align: center;
+
+}
